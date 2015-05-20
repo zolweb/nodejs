@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/python
+FROM zolweb/python
 
 # Install Node.js
 RUN \
